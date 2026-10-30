@@ -1,0 +1,1485 @@
+{
+  "approved_count": 0,
+  "candidate_count": 92,
+  "candidates": [
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-08-11",
+      "evidence": {
+        "date": "2026-08-11",
+        "evidence_sha256": "ac389261fd34aad73bec4bc7dfe1e2f27f371d510e6fab43395325ca09f3957a",
+        "field": "days[2026-08-11].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-fc517271fe527f",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-08-12",
+      "evidence": {
+        "date": "2026-08-12",
+        "evidence_sha256": "747dc36d8d73fde269e7e6646da31dd155fea27310ca64149c23a2d4c2545895",
+        "field": "days[2026-08-12].open[3]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-6d81d31dffcbbb",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-08-14",
+      "evidence": {
+        "date": "2026-08-14",
+        "evidence_sha256": "e4421ad354b96337a47ec081d081d2859c608a18eadc10da01e7a35442ad5062",
+        "field": "days[2026-08-14].close[4]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-04937cd712b639",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-08-18",
+      "evidence": {
+        "date": "2026-08-18",
+        "evidence_sha256": "918daf71b31ba23e396300503d96739532076e3bf093f76f320d13d965658b32",
+        "field": "days[2026-08-18].close[4]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-9b211aa413ef11",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기조절력",
+      "content_sha256": "697bc88f5c0b652d9ab446da9a9c66d464371e1c373261e089a4d5bc2d9b8312",
+      "date": "2026-08-19",
+      "evidence": {
+        "date": "2026-08-19",
+        "evidence_sha256": "3a5860d956010b02a1acb1c49cdd300b9772c56ec16ba67ab253df51660d3514",
+        "field": "days[2026-08-19].close[4]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-1cc3764f501bff",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 문제를 다시 확인하거나 해결 방법을 조정한 기록이 있습니다. 실제 행동과 결과를 검토해 소개 문장으로 다듬을 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-08-19",
+      "evidence": {
+        "date": "2026-08-19",
+        "evidence_sha256": "3a5860d956010b02a1acb1c49cdd300b9772c56ec16ba67ab253df51660d3514",
+        "field": "days[2026-08-19].close[4]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-348d5c20a82fd0",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-08-19",
+      "evidence": {
+        "date": "2026-08-19",
+        "evidence_sha256": "ac753a23e43bf51b57f74085409cb6d6b9394eecd7fe34b92a14cbb0c520ab6f",
+        "field": "days[2026-08-19].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-f7c68a77742831",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-08-20",
+      "evidence": {
+        "date": "2026-08-20",
+        "evidence_sha256": "74a9dde1e468a220967ff9327268f79730b3178275b39a6bf6f206741ee8af9e",
+        "field": "days[2026-08-20].close[5]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-9d5bac8e226877",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기조절력",
+      "content_sha256": "697bc88f5c0b652d9ab446da9a9c66d464371e1c373261e089a4d5bc2d9b8312",
+      "date": "2026-08-21",
+      "evidence": {
+        "date": "2026-08-21",
+        "evidence_sha256": "4c9932882ce2dc5b89b7c8d13bc470993f060a7f7a49f8dcd9ad817971bfac05",
+        "field": "days[2026-08-21].close[4]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-5b70f4870e77f5",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 문제를 다시 확인하거나 해결 방법을 조정한 기록이 있습니다. 실제 행동과 결과를 검토해 소개 문장으로 다듬을 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-08-21",
+      "evidence": {
+        "date": "2026-08-21",
+        "evidence_sha256": "943bd9c57f52008ecd01382a208ce0ea58916938faa4a9561209615e55ab88bf",
+        "field": "days[2026-08-21].open[3]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-8c5c254e66ab50",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-08-24",
+      "evidence": {
+        "date": "2026-08-24",
+        "evidence_sha256": "fd3815fe0b0d684027f9ee906a11d21132fa49100943cae371442bd11a1e1bc6",
+        "field": "days[2026-08-24].open[3]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-d19415ea96f890",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-08-25",
+      "evidence": {
+        "date": "2026-08-25",
+        "evidence_sha256": "eba31a2d0818cc393ded39addf7deaafeed9d1ff6174a36315e7df292e907488",
+        "field": "days[2026-08-25].close[4]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-3e2017b5a69a0d",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-08-26",
+      "evidence": {
+        "date": "2026-08-26",
+        "evidence_sha256": "703a706a5ab5c59721ce9b8d146184617541ed532c5c8482af83c58517d80f6b",
+        "field": "days[2026-08-26].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-c45ff986340739",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기조절력",
+      "content_sha256": "697bc88f5c0b652d9ab446da9a9c66d464371e1c373261e089a4d5bc2d9b8312",
+      "date": "2026-08-27",
+      "evidence": {
+        "date": "2026-08-27",
+        "evidence_sha256": "6a504a6c5fb004286681ef8aaede21e67029080099db0e6bdf3c01a7d68ff528",
+        "field": "days[2026-08-27].close[5]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-580ccf92eb621d",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 문제를 다시 확인하거나 해결 방법을 조정한 기록이 있습니다. 실제 행동과 결과를 검토해 소개 문장으로 다듬을 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-08-27",
+      "evidence": {
+        "date": "2026-08-27",
+        "evidence_sha256": "eceea0da688315aca5ba9b180445f8961046be518355dc777942cad27876a325",
+        "field": "days[2026-08-27].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-8ade3ff6a1adb0",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "ed38f2e10dfc669387c1f92c7d41cee102b8723c74c56ee55b2e40c2e0df384b",
+      "date": "2026-08-27",
+      "evidence": {
+        "date": "2026-08-27",
+        "evidence_sha256": "f95ff4f262e0fb2c41b62d23c51e619940eda4364f862093783f81f888f0ce4f",
+        "field": "days[2026-08-27].open[3]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-ed2031208e81a1",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "정규 보안 수업을 마친 뒤에도 기초 리눅스 수업을 이어가며 부족한 지식을 보완했습니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기조절력",
+      "content_sha256": "697bc88f5c0b652d9ab446da9a9c66d464371e1c373261e089a4d5bc2d9b8312",
+      "date": "2026-08-28",
+      "evidence": {
+        "date": "2026-08-28",
+        "evidence_sha256": "c77aa8ebd3618fd974fc79d96918bcea789556cab9ee6d307eea0366433dabdd",
+        "field": "days[2026-08-28].close[4]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-4c4236c7968b56",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 문제를 다시 확인하거나 해결 방법을 조정한 기록이 있습니다. 실제 행동과 결과를 검토해 소개 문장으로 다듬을 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-08-28",
+      "evidence": {
+        "date": "2026-08-28",
+        "evidence_sha256": "c086a0899718802a34e291148223dd52c4ce660b28652d3c19f4388d782e30c0",
+        "field": "days[2026-08-28].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-53a58572233d76",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-08-28",
+      "evidence": {
+        "date": "2026-08-28",
+        "evidence_sha256": "af5eb87602a471ad1a210c20091252814a6a5305892d5d8e41be5c64005614ce",
+        "field": "days[2026-08-28].open[3]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-53e3d37697aec3",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-08-31",
+      "evidence": {
+        "date": "2026-08-31",
+        "evidence_sha256": "14449ebab927bf7b5d919d27f65cc48ded28a0b4bb995e64a3fdf4e7c70a8feb",
+        "field": "days[2026-08-31].close[4]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-21784ebaee6850",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-09-01",
+      "evidence": {
+        "date": "2026-09-01",
+        "evidence_sha256": "68844d612a76f478cd988a38ebd7853dc278c7617505d94d82cd23a3d01e3978",
+        "field": "days[2026-09-01].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-4563ea60ac4fb8",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기조절력",
+      "content_sha256": "697bc88f5c0b652d9ab446da9a9c66d464371e1c373261e089a4d5bc2d9b8312",
+      "date": "2026-09-02",
+      "evidence": {
+        "date": "2026-09-02",
+        "evidence_sha256": "96469769b088c88845593b23405a5f395607e128fc1e877d6f9afa5b07c39c26",
+        "field": "days[2026-09-02].close[6]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-9bb59b45b31c3f",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 문제를 다시 확인하거나 해결 방법을 조정한 기록이 있습니다. 실제 행동과 결과를 검토해 소개 문장으로 다듬을 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-09-02",
+      "evidence": {
+        "date": "2026-09-02",
+        "evidence_sha256": "27217cf8c07b6d29395dd6069d8fdd725a2f43b3cb8a38529f89bc8a10d61df1",
+        "field": "days[2026-09-02].close[4]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-8653c5eb51f2d0",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기조절력",
+      "content_sha256": "697bc88f5c0b652d9ab446da9a9c66d464371e1c373261e089a4d5bc2d9b8312",
+      "date": "2026-09-03",
+      "evidence": {
+        "date": "2026-09-03",
+        "evidence_sha256": "4bd697526fdc4970b882d8b368b63c156b3a12866a9e77935e5b6e7bea891414",
+        "field": "days[2026-09-03].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-6205303bb75cac",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 문제를 다시 확인하거나 해결 방법을 조정한 기록이 있습니다. 실제 행동과 결과를 검토해 소개 문장으로 다듬을 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-09-03",
+      "evidence": {
+        "date": "2026-09-03",
+        "evidence_sha256": "8fb936bdd64ce0a03188855a0fe78a2b8fd8bc1121f550e5bf492be89ce4040f",
+        "field": "days[2026-09-03].open[3]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-ce8bef6cd46dbc",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기조절력",
+      "content_sha256": "697bc88f5c0b652d9ab446da9a9c66d464371e1c373261e089a4d5bc2d9b8312",
+      "date": "2026-09-04",
+      "evidence": {
+        "date": "2026-09-04",
+        "evidence_sha256": "40410dad38c0dfbb0edc7c74d8e63acb3a7807bafe49e6425192ebe39203a125",
+        "field": "days[2026-09-04].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-0c8f86aa22fe3a",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 문제를 다시 확인하거나 해결 방법을 조정한 기록이 있습니다. 실제 행동과 결과를 검토해 소개 문장으로 다듬을 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-09-07",
+      "evidence": {
+        "date": "2026-09-07",
+        "evidence_sha256": "19cf4d1fafb6a82e7af91074eac45551de8ac3ab089bcc67840cad0faafca10c",
+        "field": "days[2026-09-07].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-570c6289b9e2f3",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-09-08",
+      "evidence": {
+        "date": "2026-09-08",
+        "evidence_sha256": "351137632896008405f745ef913b7c30c510d24d9c01096ff1ba079dbc61d984",
+        "field": "days[2026-09-08].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-72f85866582b6c",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-09-09",
+      "evidence": {
+        "date": "2026-09-09",
+        "evidence_sha256": "0c1251b597c8e61a4332adc0ed7794f74d82de89f9228529cf43a2c3a7a3c6b0",
+        "field": "days[2026-09-09].close[4]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-e5464f83177bf9",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-09-09",
+      "evidence": {
+        "date": "2026-09-09",
+        "evidence_sha256": "e0acae42981cafe38e9c4a5cb6dcf0692095fc3bc5f2e65e022d743a228209c1",
+        "field": "days[2026-09-09].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-3b4306763b3938",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "9db4a711b83e3807b414ed87130d8b8ff67f2d581740b7e4a4c1bc368ad114fe",
+      "date": "2026-09-10",
+      "evidence": {
+        "date": "2026-09-10",
+        "evidence_sha256": "bf2e498c15553ada3533a69a6bd9fa70d5b080e9f387d7207ba6b14b4380d318",
+        "field": "days[2026-09-10].close[4]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-ad73d5d855aca8",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "웹 서버 공동 구축에서 화면 구성을 맡고 PHP 구조 구현에 참여했습니다. 진행 상황을 정리하며 팀원들의 아이디어를 공유했습니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-09-10",
+      "evidence": {
+        "date": "2026-09-10",
+        "evidence_sha256": "84e45c299a4c09cb39712758534e92de567e684952c788a57b55cb2beb1372a8",
+        "field": "days[2026-09-10].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-19ca89eeff35e0",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기조절력",
+      "content_sha256": "697bc88f5c0b652d9ab446da9a9c66d464371e1c373261e089a4d5bc2d9b8312",
+      "date": "2026-09-11",
+      "evidence": {
+        "date": "2026-09-11",
+        "evidence_sha256": "9d66ab6566d63bf0acd0ff0778ec9df76a9fcee60a48ec34ee2bc0da83bb1f79",
+        "field": "days[2026-09-11].close[5]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-2020c3c5c98095",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 문제를 다시 확인하거나 해결 방법을 조정한 기록이 있습니다. 실제 행동과 결과를 검토해 소개 문장으로 다듬을 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-09-11",
+      "evidence": {
+        "date": "2026-09-11",
+        "evidence_sha256": "00cd6c03b96cfc385ed6d79ce4e8002287ae8fa455f58f30f1dc584f3fc9a81a",
+        "field": "days[2026-09-11].close[4]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-7f19de8f78e55e",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-09-11",
+      "evidence": {
+        "date": "2026-09-11",
+        "evidence_sha256": "86ee70c629c77000e73591cc11df50970cf96e304a81fcb63aa4d2cdad04b6e9",
+        "field": "days[2026-09-11].open[3]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-4ab06eb90eb58c",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기조절력",
+      "content_sha256": "697bc88f5c0b652d9ab446da9a9c66d464371e1c373261e089a4d5bc2d9b8312",
+      "date": "2026-09-14",
+      "evidence": {
+        "date": "2026-09-14",
+        "evidence_sha256": "9544edadd2b4fa5ce0aefe251513c38611e1f6c22e06f0664da55bc01438075f",
+        "field": "days[2026-09-14].open[3]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-e4544d8fb6df38",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 문제를 다시 확인하거나 해결 방법을 조정한 기록이 있습니다. 실제 행동과 결과를 검토해 소개 문장으로 다듬을 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-09-14",
+      "evidence": {
+        "date": "2026-09-14",
+        "evidence_sha256": "75b0ccdf224c6a5b854839b43c59da296a6c4445e296ef349d0de722725d514c",
+        "field": "days[2026-09-14].close[4]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-72317e60f3f163",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-09-14",
+      "evidence": {
+        "date": "2026-09-14",
+        "evidence_sha256": "2b7f771bf233895630d0a8c161c94c7873af2075227b04f84c035a6888bd260c",
+        "field": "days[2026-09-14].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-043febf167cdab",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-09-15",
+      "evidence": {
+        "date": "2026-09-15",
+        "evidence_sha256": "092e682df60572c0a880259b51e39f914b1e85ca1d659942e16dd7e83563c572",
+        "field": "days[2026-09-15].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-7a089e1ee30501",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-09-16",
+      "evidence": {
+        "date": "2026-09-16",
+        "evidence_sha256": "002986891e7f4317b8d4dd2d1546506f685bd8c254f5612fac15c0a3247e7dd8",
+        "field": "days[2026-09-16].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-deb7c708dd7666",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-09-16",
+      "evidence": {
+        "date": "2026-09-16",
+        "evidence_sha256": "e6ad5fe2dda310d79aa32e1b183b13575620d9004d7d9b20764c499c275690d4",
+        "field": "days[2026-09-16].close[5]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-e95384cca51ec1",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기조절력",
+      "content_sha256": "697bc88f5c0b652d9ab446da9a9c66d464371e1c373261e089a4d5bc2d9b8312",
+      "date": "2026-09-17",
+      "evidence": {
+        "date": "2026-09-17",
+        "evidence_sha256": "ec8500fd8de1fa4e0a4c13dd342e98b2c4a42c8629656df7ed02e560b18c548f",
+        "field": "days[2026-09-17].open[3]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-59ef6e5721789c",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 문제를 다시 확인하거나 해결 방법을 조정한 기록이 있습니다. 실제 행동과 결과를 검토해 소개 문장으로 다듬을 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-09-17",
+      "evidence": {
+        "date": "2026-09-17",
+        "evidence_sha256": "0e3a88d9f23f996a542e078801d000ee21cbba631c7305f29f39b865eab4d5f0",
+        "field": "days[2026-09-17].close[6]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-207df70e93ffb3",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기조절력",
+      "content_sha256": "697bc88f5c0b652d9ab446da9a9c66d464371e1c373261e089a4d5bc2d9b8312",
+      "date": "2026-09-18",
+      "evidence": {
+        "date": "2026-09-18",
+        "evidence_sha256": "97f57809fdfea010c92a4046c247dacbdd20663cfc54704195fea63c378061ff",
+        "field": "days[2026-09-18].close[4]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-cf40124b460799",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 문제를 다시 확인하거나 해결 방법을 조정한 기록이 있습니다. 실제 행동과 결과를 검토해 소개 문장으로 다듬을 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-09-18",
+      "evidence": {
+        "date": "2026-09-18",
+        "evidence_sha256": "563b590a19caa5b49162b5e0a36caec80507f7bee5c5b451c3db6bcd179cc6e1",
+        "field": "days[2026-09-18].close[5]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-ed9edb1ea9ce33",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-09-18",
+      "evidence": {
+        "date": "2026-09-18",
+        "evidence_sha256": "0408868ae6199ff37f2193a88b074f296f0a161423a7e7e8c40025b8abae4b6b",
+        "field": "days[2026-09-18].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-c0b91e29dbb528",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기조절력",
+      "content_sha256": "697bc88f5c0b652d9ab446da9a9c66d464371e1c373261e089a4d5bc2d9b8312",
+      "date": "2026-09-21",
+      "evidence": {
+        "date": "2026-09-21",
+        "evidence_sha256": "578d017433645741408bc7f84012a568d51239475e42a5451f3fc95882607637",
+        "field": "days[2026-09-21].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-709deb366dfa48",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 문제를 다시 확인하거나 해결 방법을 조정한 기록이 있습니다. 실제 행동과 결과를 검토해 소개 문장으로 다듬을 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-09-21",
+      "evidence": {
+        "date": "2026-09-21",
+        "evidence_sha256": "58aeeb7c3eb0522bcfe9c88250a3331595876743203124218e930b6ede7d0cfb",
+        "field": "days[2026-09-21].close[6]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-ff10e32cf34b63",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기조절력",
+      "content_sha256": "3b42935722909a5d73908a96c4ea46e7fbbf25d30693efeda948905938d8bf8f",
+      "date": "2026-09-22",
+      "evidence": {
+        "date": "2026-09-22",
+        "evidence_sha256": "1dd8d98322fb6658e995375c54091c276f48b66f2df291c4505fbef10961a52b",
+        "field": "days[2026-09-22].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-82f42a32e4c3b6",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "SQL 삽입 실습을 여러 차례 시도했지만 원하는 결과를 얻지 못하자 동료에게 도움을 청하고 문제를 다시 살폈습니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-09-22",
+      "evidence": {
+        "date": "2026-09-22",
+        "evidence_sha256": "1dd8d98322fb6658e995375c54091c276f48b66f2df291c4505fbef10961a52b",
+        "field": "days[2026-09-22].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-35530f603842bc",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-09-22",
+      "evidence": {
+        "date": "2026-09-22",
+        "evidence_sha256": "c3db18233f988a32bd53c9a7ce6f83feb17b17c84a57a1e8908b7c8690e4a040",
+        "field": "days[2026-09-22].open[3]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-80b1717954a267",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기조절력",
+      "content_sha256": "697bc88f5c0b652d9ab446da9a9c66d464371e1c373261e089a4d5bc2d9b8312",
+      "date": "2026-09-23",
+      "evidence": {
+        "date": "2026-09-23",
+        "evidence_sha256": "1a3d24fdfb659b0e740018f7d017bedbdda96f02b7377051273484d98a283da3",
+        "field": "days[2026-09-23].close[6]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-d28ce75cd5d96e",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 문제를 다시 확인하거나 해결 방법을 조정한 기록이 있습니다. 실제 행동과 결과를 검토해 소개 문장으로 다듬을 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-09-23",
+      "evidence": {
+        "date": "2026-09-23",
+        "evidence_sha256": "ccbaa2c6fcfee9826611031367ee767cdc9a61e85d68c8ed69678a625eccfdd9",
+        "field": "days[2026-09-23].close[5]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-dd92a3966b6833",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기조절력",
+      "content_sha256": "697bc88f5c0b652d9ab446da9a9c66d464371e1c373261e089a4d5bc2d9b8312",
+      "date": "2026-09-28",
+      "evidence": {
+        "date": "2026-09-28",
+        "evidence_sha256": "67f5ef173ce2b294189ae07919cbebee842b622175cbf1229ee4b375017866fb",
+        "field": "days[2026-09-28].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-4aa551d4d7962a",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 문제를 다시 확인하거나 해결 방법을 조정한 기록이 있습니다. 실제 행동과 결과를 검토해 소개 문장으로 다듬을 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-09-28",
+      "evidence": {
+        "date": "2026-09-28",
+        "evidence_sha256": "67f5ef173ce2b294189ae07919cbebee842b622175cbf1229ee4b375017866fb",
+        "field": "days[2026-09-28].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-957c05fddf3932",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-09-29",
+      "evidence": {
+        "date": "2026-09-29",
+        "evidence_sha256": "e3e56425861cc14f45d9433c76ed0e141fed8b39972127fb68dca331ffb69c15",
+        "field": "days[2026-09-29].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-bf4516d05175be",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-09-29",
+      "evidence": {
+        "date": "2026-09-29",
+        "evidence_sha256": "e3e56425861cc14f45d9433c76ed0e141fed8b39972127fb68dca331ffb69c15",
+        "field": "days[2026-09-29].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-4a0ffa0fccb2e1",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-09-30",
+      "evidence": {
+        "date": "2026-09-30",
+        "evidence_sha256": "9add8111e28c99c506682613379ede1dda4fd27b0bb68f5a151f3c67fa2c21d8",
+        "field": "days[2026-09-30].close[5]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-dfecdd53d186cd",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-10-01",
+      "evidence": {
+        "date": "2026-10-01",
+        "evidence_sha256": "ef95aabcce080d08a13a6dfaac83941fe4d6ac61d19946dff864a2726c1cdfc2",
+        "field": "days[2026-10-01].close[4]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-016eeb570c109d",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기조절력",
+      "content_sha256": "697bc88f5c0b652d9ab446da9a9c66d464371e1c373261e089a4d5bc2d9b8312",
+      "date": "2026-10-02",
+      "evidence": {
+        "date": "2026-10-02",
+        "evidence_sha256": "6fb7ac06b379ee680e861b144230a057f5babbf13ecbf7d348d9b4d7a5d105da",
+        "field": "days[2026-10-02].close[4]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-3b1464af425127",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 문제를 다시 확인하거나 해결 방법을 조정한 기록이 있습니다. 실제 행동과 결과를 검토해 소개 문장으로 다듬을 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-10-02",
+      "evidence": {
+        "date": "2026-10-02",
+        "evidence_sha256": "df350302a343099fffdf2782b581b70eb1d3fb0e6b9f7b48e3fd2b58f7c64629",
+        "field": "days[2026-10-02].close[6]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-7622dca23da2f8",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기조절력",
+      "content_sha256": "697bc88f5c0b652d9ab446da9a9c66d464371e1c373261e089a4d5bc2d9b8312",
+      "date": "2026-10-06",
+      "evidence": {
+        "date": "2026-10-06",
+        "evidence_sha256": "1d72e40497e4722bbed74cb64859d8523d5bacc637925c043e027dd2aa087ec0",
+        "field": "days[2026-10-06].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-a3c48fd4ebeb81",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 문제를 다시 확인하거나 해결 방법을 조정한 기록이 있습니다. 실제 행동과 결과를 검토해 소개 문장으로 다듬을 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-10-06",
+      "evidence": {
+        "date": "2026-10-06",
+        "evidence_sha256": "a41a70cde380ca5386f88706293689f7b4501b036e6bf9e4e8ccb5ea93584cd4",
+        "field": "days[2026-10-06].close[6]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-d68bc23cca206d",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-10-06",
+      "evidence": {
+        "date": "2026-10-06",
+        "evidence_sha256": "1d72e40497e4722bbed74cb64859d8523d5bacc637925c043e027dd2aa087ec0",
+        "field": "days[2026-10-06].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-1e5bc0216ff509",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기조절력",
+      "content_sha256": "697bc88f5c0b652d9ab446da9a9c66d464371e1c373261e089a4d5bc2d9b8312",
+      "date": "2026-10-07",
+      "evidence": {
+        "date": "2026-10-07",
+        "evidence_sha256": "b9022b69744f5f31e604ec15d587a78754d0d9e7e08bd2ea284583abe80a7a83",
+        "field": "days[2026-10-07].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-ecb87e824258cc",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 문제를 다시 확인하거나 해결 방법을 조정한 기록이 있습니다. 실제 행동과 결과를 검토해 소개 문장으로 다듬을 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-10-07",
+      "evidence": {
+        "date": "2026-10-07",
+        "evidence_sha256": "b9022b69744f5f31e604ec15d587a78754d0d9e7e08bd2ea284583abe80a7a83",
+        "field": "days[2026-10-07].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-790b757c998997",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "16278ec502e499568bf91b001a90bbbbff3825d2fcf8cb1afdc30b73691c58cc",
+      "date": "2026-10-07",
+      "evidence": {
+        "date": "2026-10-07",
+        "evidence_sha256": "b115c84b2621e568ab74ecdd2c78fb13ed5dea7e9c91650b78a1dfd07d216a4a",
+        "field": "days[2026-10-07].open[3]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-63805e1182456c",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "방어전 실습에서 막혔을 때 도움을 구하고 수업 후에도 방법을 찾아 5단계까지 마쳤습니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-10-08",
+      "evidence": {
+        "date": "2026-10-08",
+        "evidence_sha256": "8515b0fa58c4e49da2c6358780f756f549aeb8f34448fae2566dc14a03fba0c1",
+        "field": "days[2026-10-08].close[4]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-cc44a78392b7b8",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기조절력",
+      "content_sha256": "697bc88f5c0b652d9ab446da9a9c66d464371e1c373261e089a4d5bc2d9b8312",
+      "date": "2026-10-12",
+      "evidence": {
+        "date": "2026-10-12",
+        "evidence_sha256": "f95403a80d038ab60359b413e31c650660cc714dd3bb56e63e05929bf7680303",
+        "field": "days[2026-10-12].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-3e1003ba14bbb3",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 문제를 다시 확인하거나 해결 방법을 조정한 기록이 있습니다. 실제 행동과 결과를 검토해 소개 문장으로 다듬을 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-10-12",
+      "evidence": {
+        "date": "2026-10-12",
+        "evidence_sha256": "ba420e8573528b29e0609f4ffcdbbfb9d26e4520fff47d15aae48a18dfe5e6da",
+        "field": "days[2026-10-12].close[4]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-7a3b1f840b2064",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기조절력",
+      "content_sha256": "697bc88f5c0b652d9ab446da9a9c66d464371e1c373261e089a4d5bc2d9b8312",
+      "date": "2026-10-13",
+      "evidence": {
+        "date": "2026-10-13",
+        "evidence_sha256": "53a476877e823d0f7d98d338a2d680be957c98f4326a2193cc4ef4ef10e2718a",
+        "field": "days[2026-10-13].close[4]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-0a12ffbf407d89",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 문제를 다시 확인하거나 해결 방법을 조정한 기록이 있습니다. 실제 행동과 결과를 검토해 소개 문장으로 다듬을 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-10-13",
+      "evidence": {
+        "date": "2026-10-13",
+        "evidence_sha256": "bb80f08d5f5f52920a6523c4bbf01cb689b082b7b02a376750c97c923a2a197b",
+        "field": "days[2026-10-13].close[6]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-91900e423fb53f",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-10-13",
+      "evidence": {
+        "date": "2026-10-13",
+        "evidence_sha256": "f189785c0f77f01ba9ea70e48ab4a4548829f746216e7ac0af1455122b557ff9",
+        "field": "days[2026-10-13].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-1740b33aa80e39",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기조절력",
+      "content_sha256": "4a72b78a7cbd3eac844cb850408b178e88b8ec8095bee8aae7995dd72191bfe5",
+      "date": "2026-10-14",
+      "evidence": {
+        "date": "2026-10-14",
+        "evidence_sha256": "2d79b656ec077436a831a37eb21e125d5525103ca842ba6170a26b8a5f7092be",
+        "field": "days[2026-10-14].open[3]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-fe764b13e8b2d2",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "방어전 8단계에서 막혔지만 수업 후에도 문제를 살펴 해결하고, 실패 원인까지 확인했습니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-10-14",
+      "evidence": {
+        "date": "2026-10-14",
+        "evidence_sha256": "7c0f68d700129849ed146004fbab1fb164b76d744cd127b7adca54227d0083de",
+        "field": "days[2026-10-14].close[4]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-4f9d00a3c39dac",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-10-14",
+      "evidence": {
+        "date": "2026-10-14",
+        "evidence_sha256": "7b5876ed77afa4ffd6d8e521c47468c7fb8e1272264a4e49f8d0ae7e35ed80c4",
+        "field": "days[2026-10-14].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-43add487c8bd86",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기조절력",
+      "content_sha256": "697bc88f5c0b652d9ab446da9a9c66d464371e1c373261e089a4d5bc2d9b8312",
+      "date": "2026-10-15",
+      "evidence": {
+        "date": "2026-10-15",
+        "evidence_sha256": "d5e38339890029e96b4e4c8a4da510f355241e5f7e4d3da9e61ac9605bb32a73",
+        "field": "days[2026-10-15].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-58a384e740408d",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 문제를 다시 확인하거나 해결 방법을 조정한 기록이 있습니다. 실제 행동과 결과를 검토해 소개 문장으로 다듬을 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-10-15",
+      "evidence": {
+        "date": "2026-10-15",
+        "evidence_sha256": "e1b113de72a3286a509cc08b5b6ab48a56f60765e0d471c6f512fbfff716df1d",
+        "field": "days[2026-10-15].close[4]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-e40b1f445a95bf",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-10-16",
+      "evidence": {
+        "date": "2026-10-16",
+        "evidence_sha256": "f688a0473f98bcee740e007da05e5a07941685cae8112a24f91829c539fe5672",
+        "field": "days[2026-10-16].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-370e717fb333ae",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기조절력",
+      "content_sha256": "697bc88f5c0b652d9ab446da9a9c66d464371e1c373261e089a4d5bc2d9b8312",
+      "date": "2026-10-19",
+      "evidence": {
+        "date": "2026-10-19",
+        "evidence_sha256": "d5ad51dd15021547a79aef24561ff67e167dd80b8c42bbcf3d320168ce3a29cb",
+        "field": "days[2026-10-19].close[4]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-cae602d9c17b4b",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 문제를 다시 확인하거나 해결 방법을 조정한 기록이 있습니다. 실제 행동과 결과를 검토해 소개 문장으로 다듬을 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-10-19",
+      "evidence": {
+        "date": "2026-10-19",
+        "evidence_sha256": "d5ad51dd15021547a79aef24561ff67e167dd80b8c42bbcf3d320168ce3a29cb",
+        "field": "days[2026-10-19].close[4]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-78bb0a240760c1",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-10-19",
+      "evidence": {
+        "date": "2026-10-19",
+        "evidence_sha256": "c695567f320e076c094b00ecd5fb7acc1fb6d3007ea77c95e0b7c1d33fffa3d5",
+        "field": "days[2026-10-19].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-ffda27c923c68c",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-10-21",
+      "evidence": {
+        "date": "2026-10-21",
+        "evidence_sha256": "bbbad064296fc9c77ce4db93fda2b2899d02187a55cded1bd23fbc0b7911091d",
+        "field": "days[2026-10-21].close[6]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-6709fb438902ca",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-10-22",
+      "evidence": {
+        "date": "2026-10-22",
+        "evidence_sha256": "a7765ac1e869f42a489608cb3333c8e2227f278c95ad3784e006bc622e9b9138",
+        "field": "days[2026-10-22].close[6]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-23564dabb67d2c",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-10-22",
+      "evidence": {
+        "date": "2026-10-22",
+        "evidence_sha256": "8a791b24423444d85b9f26a8c429bdb9e5521bd8f65db4ad3ca2981c3150c6a6",
+        "field": "days[2026-10-22].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-99cc4652bc5b3a",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-10-23",
+      "evidence": {
+        "date": "2026-10-23",
+        "evidence_sha256": "bf7fe24b5c337092ead83f02218237652e078db550463126a2a7a9938c44f471",
+        "field": "days[2026-10-23].close[6]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-a7413982c619d5",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-10-23",
+      "evidence": {
+        "date": "2026-10-23",
+        "evidence_sha256": "ed2c415fd1ade5475d0acc37bbdfcfa2f2c868e37b4db214298551ed5e435460",
+        "field": "days[2026-10-23].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-0d1bbbbf59ebee",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-10-26",
+      "evidence": {
+        "date": "2026-10-26",
+        "evidence_sha256": "b5780e1cd6bd1e7fae8ef3ff9ef4b7384d718a6dba27c1781996b3e422a810d8",
+        "field": "days[2026-10-26].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-bd94ccc22a92cf",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-10-27",
+      "evidence": {
+        "date": "2026-10-27",
+        "evidence_sha256": "42006a9722558a13fea2ba3b16900ea1cc58fdb2b6a3db7374dbb89f680cad97",
+        "field": "days[2026-10-27].close[5]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-cde04cde651b17",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-10-27",
+      "evidence": {
+        "date": "2026-10-27",
+        "evidence_sha256": "92a337a45741a0a524233837f49470fc5a67926cd65a083927df2a886c397428",
+        "field": "days[2026-10-27].close[4]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-2254d4ec923d58",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "대인관계력",
+      "content_sha256": "c126c162d83c512c2341daf91a114c8fb5817c8fb0f288de6b52036e37210ba9",
+      "date": "2026-10-28",
+      "evidence": {
+        "date": "2026-10-28",
+        "evidence_sha256": "2401a54171efdface0806eb4625ad385e5c0cb0bc0a7788ded2546ad6c1f58b0",
+        "field": "days[2026-10-28].close[1]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-87d47f40c21c23",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 다른 사람과 의견을 나누거나 서로 도운 기록이 있습니다. 협업 과정과 기여 내용을 검토할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    },
+    {
+      "competency": "자기동기력",
+      "content_sha256": "26e7e682d8d2aed16b5e2eeed6c2c1d2ec11f98d4d0912eb87b8a72f0e8fafce",
+      "date": "2026-10-28",
+      "evidence": {
+        "date": "2026-10-28",
+        "evidence_sha256": "70500b6638cbfc6c57cc60979190732a07e8b17844179d6c56f13508f85b803b",
+        "field": "days[2026-10-28].open[3]",
+        "source": "ritual-history-2026-10-29.json"
+      },
+      "id": "cand-9eb554fbb80888",
+      "note": "원문을 게시하지 않습니다. 내용과 다른 사람의 정보가 없는지 직접 검토 후 승인하세요.",
+      "paragraph": "해당 날짜의 일지에 학습을 계속하거나 목표를 실행한 기록이 있습니다. 구체적인 행동을 확인해 보완할 후보입니다.",
+      "requires_approval": true,
+      "type": "날짜 기반 검토 후보"
+    }
+  ],
+  "competencies": [
+    "자기조절력",
+    "대인관계력",
+    "자기동기력"
+  ],
+  "review_instructions": "검토 후 python run.py --approve 후보ID --confirm을 실행하세요. 자동 승인은 하지 않습니다.",
+  "stale_approvals": []
+}
