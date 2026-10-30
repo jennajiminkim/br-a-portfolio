@@ -11,6 +11,23 @@ a{color:var(--blue);text-underline-offset:3px}.wrap{width:min(880px,calc(100% - 
 .hero{padding:70px 0 55px}.eyebrow{letter-spacing:.15em;text-transform:uppercase;color:var(--blue);font-size:12px;font-weight:700}.hero h1{font-size:clamp(36px,6vw,56px);margin:8px 0;line-height:1.25}.hero p{font-size:clamp(18px,2.9vw,24px);font-weight:550;max-width:720px;line-height:1.6;margin:16px 0 24px}
 h2{font-size:26px;line-height:1.4;margin:0 0 22px}h3{font-size:18px;line-height:1.6;margin:0 0 10px}main section.main{padding:42px 0;border-top:1px solid var(--line)}.story-section{margin:0 0 35px}.story-section p{margin:12px 0}.quote{font-size:14px;color:var(--muted);font-style:italic}.cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.card{border:1px solid var(--line);border-radius:10px;padding:18px}.card strong{font-size:30px;line-height:1.2;display:block;margin-bottom:5px}.card small{color:var(--muted);font-size:12px;display:block;line-height:1.55}.card span{display:block;font-size:14px}.card a{font-size:14px}.projects{display:grid;gap:13px}.subtle{color:var(--muted);font-size:14px}.evidence{font-size:12px;color:var(--muted)}.pill{display:inline-block;border:1px solid var(--line);border-radius:100px;padding:1px 10px;font-size:12px;color:var(--muted)}.empty{padding:18px;border:1px dashed var(--line);color:var(--muted);font-size:14px;border-radius:10px}footer{padding:32px 0 52px;color:var(--muted);font-size:13px;border-top:1px solid var(--line)}:focus-visible{outline:3px solid var(--blue);outline-offset:4px}
 @media(max-width:650px){header .wrap{align-items:flex-start;flex-direction:column}nav{gap:12px}.cards{grid-template-columns:1fr}.hero{padding:46px 0}}
+
+/* 섬세한 색상과 여백만 추가한 BR-A 스타일 */
+:root{--ink:#24364a;--muted:#617489;--line:#dce6f1;--blue:#346dc7;--wash:#f7faff;--mint:#4b978c}
+header{background:rgba(255,255,255,.97);border-bottom-color:#e3ebf4}
+.logo{border-left:3px solid var(--mint);padding-left:11px}
+.hero{padding:68px 26px 60px;margin:16px -26px 0;border-radius:18px;background:linear-gradient(125deg,#f4f9ff 0%,#ffffff 76%)}
+.eyebrow{color:var(--mint);font-weight:700}
+h2{letter-spacing:-.035em}
+main section.main{padding:47px 0}
+.projects>.card{position:relative;border-radius:14px;padding:24px 25px;border-color:#d8e5f0;box-shadow:0 4px 16px rgba(31,67,111,.035)}
+.projects>.card::before{content:"";position:absolute;left:0;top:23px;bottom:23px;width:3px;border-radius:0 3px 3px 0;background:#6e9be1}
+.projects>.card:nth-child(2)::before{background:var(--mint)}
+.projects .subtle{line-height:1.7}
+.paper-link{display:inline-flex;align-items:center;gap:6px;margin-top:4px;font-size:14px;font-weight:650;text-underline-offset:4px}
+.paper-link:hover{color:#194e97}
+#paper-pdf-link[hidden]{display:none}
+@media(max-width:650px){.hero{margin:14px -12px 0;padding:40px 18px 42px;border-radius:12px}.projects>.card{padding:20px}}
 </style>
 </head>
 <body>
@@ -45,7 +62,7 @@ h2{font-size:26px;line-height:1.4;margin:0 0 22px}h3{font-size:18px;line-height:
 </section></section>
 <section id="numbers" class="main"><h2>기록과 숫자</h2><div class="cards" id="stats"><div class="empty">숫자 파일을 읽는 중입니다.</div></div><p class="subtle">출석·과제는 학습 사이트의 공식 화면에서 옮겨 적은 값이고, 리추얼 수치는 개인 기록 파일에서 계산합니다. 조회 시점이 서로 다를 수 있습니다.</p><div id="obstacle"></div></section>
 <section id="projects" class="main"><h2>대표작</h2><div class="projects">
-<div class="card"><h3>10번 과제 · 첫 논문</h3><p>성인 범불안장애 치료 전후 뇌 기능적 연결성 변화 — 공개 출판자료의 근거 종합과 요약통계 재분석</p><p class="subtle">논문 PDF 공개 연결은 최종 개인정보 점검 후 추가합니다.</p></div>
+<div class="card"><h3>10번 과제 · 첫 논문</h3><p>성인 범불안장애 치료 전후 뇌 기능적 연결성 변화 — 공개 출판자료의 근거 종합과 요약통계 재분석</p><p class="subtle" id="paper-status">논문 PDF 파일 연결을 확인하고 있습니다.</p><a class="paper-link" id="paper-pdf-link" href="site/docs/manuscript.pdf" target="_blank" rel="noopener noreferrer" hidden>논문 PDF 열람 ↗</a></div>
 <div class="card"><h3>13번 과제 · 명상 보조 웹 앱</h3><p>비치료적 명상 보조 도구 제작 예정</p><p class="subtle">예상 완료일: 미정 (작성자가 확정 후 입력)</p></div>
 </div></section>
 <section id="approved" class="main"><h2>승인한 기록 문단</h2><div id="published" class="projects"><div class="empty">승인한 신규 문단이 없습니다.</div></div></section>
@@ -53,6 +70,17 @@ h2{font-size:26px;line-height:1.4;margin:0 0 22px}h3{font-size:18px;line-height:
 </main><footer><div class="wrap">홍지민 · 기술 학습과 협업 경험에 관한 공개 포트폴리오</div></footer>
 <script>
 'use strict';
+
+/* PDF가 공개 폴더에 있을 때에만 열람 링크를 노출 */
+fetch('site/docs/manuscript.pdf',{method:'HEAD',cache:'no-store'}).then(r=>{
+  if(!r.ok || !((r.headers.get('content-type')||'').includes('pdf')))throw Error('PDF 미배포');
+  const a=document.getElementById('paper-pdf-link');
+  const status=document.getElementById('paper-status');
+  a.hidden=false;
+  status.textContent='최종 논문 · PDF 33쪽';
+}).catch(()=>{
+  document.getElementById('paper-status').textContent='논문 PDF 업로드 확인 후 열람 링크가 표시됩니다.';
+});
 const $=id=>document.getElementById(id);
 function textEl(tag,value,cls){const e=document.createElement(tag);e.textContent=value;if(cls)e.className=cls;return e;}
 function stat(parent,value,label,source){const x=textEl('div','','card');x.append(textEl('strong',value),textEl('span',label),textEl('small',source));parent.append(x);}
