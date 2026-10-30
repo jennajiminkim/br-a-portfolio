@@ -1,0 +1,23 @@
+{
+  "checked_files": [
+    "output/metrics.json",
+    "output/candidates.json",
+    "output/manifest.json",
+    "site/site-data.json",
+    "output/review.md"
+  ],
+  "clean_folder": "PASS",
+  "explicit_approval": "PASS",
+  "fingerprints": {
+    "output/candidates.json": "b57d04e0c6aa701de2b9be46ed84f553dcb215cf213eed0eda882fa1afb00495",
+    "output/manifest.json": "b536e758d282fda0ff7079266189f044fcbff16be3054cb15c3495d7badbde9f",
+    "output/metrics.json": "1ee15c224a59bd32c18308bab6e82bd5e06e6e2718525aad90a134228fc6f6c4",
+    "output/review.md": "f966f1715c67d890f132ec0f7120adfb086beee08e2974de91ea2f6367614661",
+    "site/site-data.json": "cbd40805577102b4c249c82b9e1499fb14ae0ae8ded2147b1c0d021d9ebc549a"
+  },
+  "new_records_require_approval": "PASS",
+  "new_records_update_metrics": "PASS",
+  "note": "테스트 로그에는 현재 시간과 절대경로가 없어 재현 결과에 영향을 주지 않습니다.",
+  "same_input_twice": "PASS",
+  "stale_approval_revoked": "PASS"
+}

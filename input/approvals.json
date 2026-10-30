@@ -1,0 +1,4 @@
+{
+  "approved": [],
+  "note": "승인 전에는 어떤 후보 문단도 공개 사이트에 게시되지 않습니다. 사용자 검토 후 run.py --approve ID --confirm을 실행하세요."
+}

@@ -1,0 +1,11 @@
+{
+  "snapshot_date": "2026-10-30",
+  "source": "ALEPH 내 출석 기록 화면 (2026-10-30 조회, 당일 확정 전)",
+  "source_type": "manually_transcribed_official_screen",
+  "training_days": 54,
+  "enrolled_days": 54,
+  "attended_days": 53,
+  "absent_days": 0,
+  "provisional": true,
+  "note": "공식 화면 표시 출석률 98.1%. 지각·조퇴 등 별도 인정 규칙이 있어 결석 0일과 출석 53일은 동시에 표시됨."
+}

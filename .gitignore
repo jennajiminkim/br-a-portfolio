@@ -1,0 +1,10 @@
+# Raw diary exports must NEVER be committed.
+**/*raw-ritual*.json
+**/ritual-history*.json
+**/.env*
+__pycache__/
+*.pyc
+# Never commit local input replacement; publishing only requires site/.
+input/ritual.json
+# 공개 저장소의 input/ritual.json은 초기 최소화 자료만 업로드된 상태입니다.
+# 원본 내보내기로 교체하거나 git add -f 하지 마세요.

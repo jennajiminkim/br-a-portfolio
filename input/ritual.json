@@ -1,0 +1,1253 @@
+{
+  "format": "minimal-ritual-v1",
+  "source_basename": "ritual-history-2026-10-29.json",
+  "period_end": "2026-10-29",
+  "days": [
+    {
+      "date": "2026-08-11",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "실천했다",
+      "evidence": [
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-08-11].close[1]",
+          "sha256": "ac389261fd34aad73bec4bc7dfe1e2f27f371d510e6fab43395325ca09f3957a"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-08-11].close[4]",
+          "sha256": "b93b5550341b338e8275c7eb26eabf0b9f8662d4340a9b4586e86233b7d00c3c"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-12",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "실천했다",
+      "evidence": [
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-08-12].open[3]",
+          "sha256": "747dc36d8d73fde269e7e6646da31dd155fea27310ca64149c23a2d4c2545895"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "실천했다",
+      "evidence": []
+    },
+    {
+      "date": "2026-08-14",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "일부 실천했다",
+      "evidence": [
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-08-14].close[4]",
+          "sha256": "e4421ad354b96337a47ec081d081d2859c608a18eadc10da01e7a35442ad5062"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-08-14].close[5]",
+          "sha256": "c6a92d5ecc46453b588297caca5c3925217a2d28344e48ece20e9f77fc78df5f"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-18",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "실천했다",
+      "evidence": [
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-08-18].close[4]",
+          "sha256": "918daf71b31ba23e396300503d96739532076e3bf093f76f320d13d965658b32"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-19",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "실천했다",
+      "evidence": [
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-08-19].close[1]",
+          "sha256": "ac753a23e43bf51b57f74085409cb6d6b9394eecd7fe34b92a14cbb0c520ab6f"
+        },
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-08-19].close[4]",
+          "sha256": "3a5860d956010b02a1acb1c49cdd300b9772c56ec16ba67ab253df51660d3514"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-08-19].close[4]",
+          "sha256": "3a5860d956010b02a1acb1c49cdd300b9772c56ec16ba67ab253df51660d3514"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-08-19].close[4]",
+          "sha256": "3a5860d956010b02a1acb1c49cdd300b9772c56ec16ba67ab253df51660d3514"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "일부 실천했다",
+      "evidence": [
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-08-20].close[5]",
+          "sha256": "74a9dde1e468a220967ff9327268f79730b3178275b39a6bf6f206741ee8af9e"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "일부 실천했다",
+      "evidence": [
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-08-21].open[3]",
+          "sha256": "943bd9c57f52008ecd01382a208ce0ea58916938faa4a9561209615e55ab88bf"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-08-21].open[3]",
+          "sha256": "943bd9c57f52008ecd01382a208ce0ea58916938faa4a9561209615e55ab88bf"
+        },
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-08-21].close[4]",
+          "sha256": "4c9932882ce2dc5b89b7c8d13bc470993f060a7f7a49f8dcd9ad817971bfac05"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-24",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "실천했다",
+      "evidence": [
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-08-24].open[3]",
+          "sha256": "fd3815fe0b0d684027f9ee906a11d21132fa49100943cae371442bd11a1e1bc6"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-25",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "일부 실천했다",
+      "evidence": [
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-08-25].close[4]",
+          "sha256": "eba31a2d0818cc393ded39addf7deaafeed9d1ff6174a36315e7df292e907488"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-08-25].close[5]",
+          "sha256": "c0c90c190baa288b18d176711d266917cca7414b2a208f3aca4b17fc17e9dd66"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-08-25].close[6]",
+          "sha256": "ee4b89e59494ed0a8c36d61db23eed670247c7e1cef5e519f33ddc5823680f58"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-26",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "일부 실천했다",
+      "evidence": [
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-08-26].open[3]",
+          "sha256": "1d4995adca23918a0bb19f6edb98e2586e1d05e4ccc3c9e6a9d8457cde63495c"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-08-26].close[1]",
+          "sha256": "703a706a5ab5c59721ce9b8d146184617541ed532c5c8482af83c58517d80f6b"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "실천했다",
+      "evidence": [
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-08-27].open[3]",
+          "sha256": "f95ff4f262e0fb2c41b62d23c51e619940eda4364f862093783f81f888f0ce4f"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-08-27].close[1]",
+          "sha256": "eceea0da688315aca5ba9b180445f8961046be518355dc777942cad27876a325"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-08-27].close[1]",
+          "sha256": "eceea0da688315aca5ba9b180445f8961046be518355dc777942cad27876a325"
+        },
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-08-27].close[5]",
+          "sha256": "6a504a6c5fb004286681ef8aaede21e67029080099db0e6bdf3c01a7d68ff528"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-08-27].close[6]",
+          "sha256": "d7ee622c557a46c94cdedb12adeb89b9d6a076abf9720b4e8d79a76c21611fc5"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "실천했다",
+      "evidence": [
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-08-28].open[3]",
+          "sha256": "af5eb87602a471ad1a210c20091252814a6a5305892d5d8e41be5c64005614ce"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-08-28].close[1]",
+          "sha256": "c086a0899718802a34e291148223dd52c4ce660b28652d3c19f4388d782e30c0"
+        },
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-08-28].close[4]",
+          "sha256": "c77aa8ebd3618fd974fc79d96918bcea789556cab9ee6d307eea0366433dabdd"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-08-28].close[6]",
+          "sha256": "df34c22e1add5fe1ec7f0fcbaba4d44d605e9dcfb2a343a064cfa78fb8d0b0a5"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "실천했다",
+      "evidence": [
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-08-31].open[3]",
+          "sha256": "03c8d197f7038213cede2b3af91f54d1684147bf30af2133c9f72a8a126cd178"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-08-31].close[4]",
+          "sha256": "14449ebab927bf7b5d919d27f65cc48ded28a0b4bb995e64a3fdf4e7c70a8feb"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "일부 실천했다",
+      "evidence": [
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-09-01].open[3]",
+          "sha256": "df1bc44b105320bd14536870aeee71be360345b085319014bfeeaaa345daf5db"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-09-01].close[1]",
+          "sha256": "68844d612a76f478cd988a38ebd7853dc278c7617505d94d82cd23a3d01e3978"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "실천했다",
+      "evidence": [
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-09-02].close[4]",
+          "sha256": "27217cf8c07b6d29395dd6069d8fdd725a2f43b3cb8a38529f89bc8a10d61df1"
+        },
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-09-02].close[6]",
+          "sha256": "96469769b088c88845593b23405a5f395607e128fc1e877d6f9afa5b07c39c26"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "일부 실천했다",
+      "evidence": [
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-09-03].open[3]",
+          "sha256": "8fb936bdd64ce0a03188855a0fe78a2b8fd8bc1121f550e5bf492be89ce4040f"
+        },
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-09-03].close[1]",
+          "sha256": "4bd697526fdc4970b882d8b368b63c156b3a12866a9e77935e5b6e7bea891414"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "실천했다",
+      "evidence": [
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-09-04].close[1]",
+          "sha256": "40410dad38c0dfbb0edc7c74d8e63acb3a7807bafe49e6425192ebe39203a125"
+        },
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-09-04].close[5]",
+          "sha256": "eaf8bf6ae4458d2f2cdbddd4d6d23923c5228babbb6074db673d6946dfb619cb"
+        },
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-09-04].close[6]",
+          "sha256": "e97661b30d763392706d607f3ef103703972504aee6b8ab2aa02881c94945ad5"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "실천했다",
+      "evidence": [
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-09-07].close[1]",
+          "sha256": "19cf4d1fafb6a82e7af91074eac45551de8ac3ab089bcc67840cad0faafca10c"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-09-07].close[5]",
+          "sha256": "d9952ee976bb7461b83d6c7fdc4e256602730df7c17d8b32f6064ad1fa28b6da"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "실천했다",
+      "evidence": [
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-09-08].open[3]",
+          "sha256": "63cf553b0b5930204aeacdcf3f9233916643ec3c1695cf5cbceac02577e824d2"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-09-08].close[1]",
+          "sha256": "351137632896008405f745ef913b7c30c510d24d9c01096ff1ba079dbc61d984"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-09-08].close[4]",
+          "sha256": "9f4d14ce41c452b025b9784090ad9b0d6dc3b1fc9bba0c6ece0bc896ea62bdd9"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-09-08].close[5]",
+          "sha256": "633cf402993d5b42e45890c6e2b857b2ae6d379009edae22e4f7a866a36f8ca4"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "일부 실천했다",
+      "evidence": [
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-09-09].open[3]",
+          "sha256": "5417c2b0e4feb311628bb99714c1063cafde2a1e1b473937ebd671849a566168"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-09-09].close[1]",
+          "sha256": "e0acae42981cafe38e9c4a5cb6dcf0692095fc3bc5f2e65e022d743a228209c1"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-09-09].close[4]",
+          "sha256": "0c1251b597c8e61a4332adc0ed7794f74d82de89f9228529cf43a2c3a7a3c6b0"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-09-09].close[5]",
+          "sha256": "48c5ac9d77b3355fde4fa7f897b6e1909f28be655f1d87f7e3c82e5116bcd58c"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-09-09].close[6]",
+          "sha256": "35cefd0a88e7973a7577bbb132f2910e4f9e15c916b6419749be28ca76a2115d"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "실천했다",
+      "evidence": [
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-09-10].open[3]",
+          "sha256": "642b9b3b250afde0fecd3af1287284e025283a41f870674f54fa2cbb443eb0da"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-09-10].close[1]",
+          "sha256": "84e45c299a4c09cb39712758534e92de567e684952c788a57b55cb2beb1372a8"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-09-10].close[4]",
+          "sha256": "bf2e498c15553ada3533a69a6bd9fa70d5b080e9f387d7207ba6b14b4380d318"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "일부 실천했다",
+      "evidence": [
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-09-11].open[3]",
+          "sha256": "86ee70c629c77000e73591cc11df50970cf96e304a81fcb63aa4d2cdad04b6e9"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-09-11].close[4]",
+          "sha256": "00cd6c03b96cfc385ed6d79ce4e8002287ae8fa455f58f30f1dc584f3fc9a81a"
+        },
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-09-11].close[5]",
+          "sha256": "9d66ab6566d63bf0acd0ff0778ec9df76a9fcee60a48ec34ee2bc0da83bb1f79"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-09-11].close[5]",
+          "sha256": "9d66ab6566d63bf0acd0ff0778ec9df76a9fcee60a48ec34ee2bc0da83bb1f79"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-09-11].close[6]",
+          "sha256": "2a3296764969ad3712208dfc6a518536894a18f9c4ec29e2175d1c181ee630fd"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "실천했다",
+      "evidence": [
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-09-14].open[3]",
+          "sha256": "9544edadd2b4fa5ce0aefe251513c38611e1f6c22e06f0664da55bc01438075f"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-09-14].open[3]",
+          "sha256": "9544edadd2b4fa5ce0aefe251513c38611e1f6c22e06f0664da55bc01438075f"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-09-14].close[1]",
+          "sha256": "2b7f771bf233895630d0a8c161c94c7873af2075227b04f84c035a6888bd260c"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-09-14].close[4]",
+          "sha256": "75b0ccdf224c6a5b854839b43c59da296a6c4445e296ef349d0de722725d514c"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-09-14].close[5]",
+          "sha256": "a9052252988bafae901f5a0d1d24dee2d91b620c4868324b6a5697cc76ceebb0"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "일부 실천했다",
+      "evidence": [
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-09-15].close[1]",
+          "sha256": "092e682df60572c0a880259b51e39f914b1e85ca1d659942e16dd7e83563c572"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-09-15].close[4]",
+          "sha256": "1c4337e8354c0a25ba6630be090a1bb0ae9138670b038c3c48ebbc3611ea99c8"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "실천했다",
+      "evidence": [
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-09-16].close[1]",
+          "sha256": "002986891e7f4317b8d4dd2d1546506f685bd8c254f5612fac15c0a3247e7dd8"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-09-16].close[4]",
+          "sha256": "c5962a1e8ed9d3ad1b39db323917b1f74cbbfb69a7fa782a54bcb1bd470c0e93"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-09-16].close[5]",
+          "sha256": "e6ad5fe2dda310d79aa32e1b183b13575620d9004d7d9b20764c499c275690d4"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-09-16].close[6]",
+          "sha256": "ab5c16b6f76bb739b6878adcdebf7bbc6fb2d525d69eaab6d4c6fb52d657700a"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "실천했다",
+      "evidence": [
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-09-17].open[3]",
+          "sha256": "ec8500fd8de1fa4e0a4c13dd342e98b2c4a42c8629656df7ed02e560b18c548f"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-09-17].close[6]",
+          "sha256": "0e3a88d9f23f996a542e078801d000ee21cbba631c7305f29f39b865eab4d5f0"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "실천했다",
+      "evidence": [
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-09-18].close[1]",
+          "sha256": "0408868ae6199ff37f2193a88b074f296f0a161423a7e7e8c40025b8abae4b6b"
+        },
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-09-18].close[4]",
+          "sha256": "97f57809fdfea010c92a4046c247dacbdd20663cfc54704195fea63c378061ff"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-09-18].close[5]",
+          "sha256": "563b590a19caa5b49162b5e0a36caec80507f7bee5c5b451c3db6bcd179cc6e1"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "실천했다",
+      "evidence": [
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-09-21].close[1]",
+          "sha256": "578d017433645741408bc7f84012a568d51239475e42a5451f3fc95882607637"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-09-21].close[6]",
+          "sha256": "58aeeb7c3eb0522bcfe9c88250a3331595876743203124218e930b6ede7d0cfb"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "일부 실천했다",
+      "evidence": [
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-09-22].open[3]",
+          "sha256": "c3db18233f988a32bd53c9a7ce6f83feb17b17c84a57a1e8908b7c8690e4a040"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-09-22].open[3]",
+          "sha256": "c3db18233f988a32bd53c9a7ce6f83feb17b17c84a57a1e8908b7c8690e4a040"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-09-22].open[3]",
+          "sha256": "c3db18233f988a32bd53c9a7ce6f83feb17b17c84a57a1e8908b7c8690e4a040"
+        },
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-09-22].close[1]",
+          "sha256": "1dd8d98322fb6658e995375c54091c276f48b66f2df291c4505fbef10961a52b"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-09-22].close[1]",
+          "sha256": "1dd8d98322fb6658e995375c54091c276f48b66f2df291c4505fbef10961a52b"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-09-22].close[4]",
+          "sha256": "b24d3af63bb1ebfb3f82d0deae3832f0197c8da8c913fbefe92f3d10670e142b"
+        },
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-09-22].close[6]",
+          "sha256": "7b9a3598bf69f6678f4b179d3fc1c575ae545077af3f2ad2c0c98367c458e4da"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-09-22].close[6]",
+          "sha256": "7b9a3598bf69f6678f4b179d3fc1c575ae545077af3f2ad2c0c98367c458e4da"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "일부 실천했다",
+      "evidence": [
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-09-23].open[3]",
+          "sha256": "5b10cf0aefa56241357b072e57f1f6bdb75b655670dad0818854486832d398fa"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-09-23].close[5]",
+          "sha256": "ccbaa2c6fcfee9826611031367ee767cdc9a61e85d68c8ed69678a625eccfdd9"
+        },
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-09-23].close[6]",
+          "sha256": "1a3d24fdfb659b0e740018f7d017bedbdda96f02b7377051273484d98a283da3"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-09-23].close[6]",
+          "sha256": "1a3d24fdfb659b0e740018f7d017bedbdda96f02b7377051273484d98a283da3"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "실천했다",
+      "evidence": [
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-09-28].close[1]",
+          "sha256": "67f5ef173ce2b294189ae07919cbebee842b622175cbf1229ee4b375017866fb"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-09-28].close[1]",
+          "sha256": "67f5ef173ce2b294189ae07919cbebee842b622175cbf1229ee4b375017866fb"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "실천했다",
+      "evidence": [
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-09-29].open[3]",
+          "sha256": "c5f29967eebf1f7b674c80abd2bbe4f99c1d160efb65387669945b54b5c5977b"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-09-29].close[1]",
+          "sha256": "e3e56425861cc14f45d9433c76ed0e141fed8b39972127fb68dca331ffb69c15"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-09-29].close[1]",
+          "sha256": "e3e56425861cc14f45d9433c76ed0e141fed8b39972127fb68dca331ffb69c15"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-09-29].close[5]",
+          "sha256": "a9db6108434cd534cd99936335eb5147e37485410c72a4aa9dae3ea04b44cc8b"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "실천했다",
+      "evidence": [
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-09-30].close[5]",
+          "sha256": "9add8111e28c99c506682613379ede1dda4fd27b0bb68f5a151f3c67fa2c21d8"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "일부 실천했다",
+      "evidence": [
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-01].close[4]",
+          "sha256": "ef95aabcce080d08a13a6dfaac83941fe4d6ac61d19946dff864a2726c1cdfc2"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-01].close[5]",
+          "sha256": "42c45d3655a4404fb9eb3c047d22dd220b2f1826fbd271b43a8ae05c7952d009"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "실천했다",
+      "evidence": [
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-10-02].close[4]",
+          "sha256": "6fb7ac06b379ee680e861b144230a057f5babbf13ecbf7d348d9b4d7a5d105da"
+        },
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-10-02].close[5]",
+          "sha256": "c497eb29c9941c6a9a5c35e0d28c0ec13b48eb2ebef26c87ce3c54c1d2d877e2"
+        },
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-10-02].close[6]",
+          "sha256": "df350302a343099fffdf2782b581b70eb1d3fb0e6b9f7b48e3fd2b58f7c64629"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-02].close[6]",
+          "sha256": "df350302a343099fffdf2782b581b70eb1d3fb0e6b9f7b48e3fd2b58f7c64629"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "일부 실천했다",
+      "evidence": [
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-10-06].open[3]",
+          "sha256": "c3162f052dc5f5d306da219eb9d02dbadcb12f4fc4609fece9b4cfa8082501e7"
+        },
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-10-06].close[1]",
+          "sha256": "1d72e40497e4722bbed74cb64859d8523d5bacc637925c043e027dd2aa087ec0"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-10-06].close[1]",
+          "sha256": "1d72e40497e4722bbed74cb64859d8523d5bacc637925c043e027dd2aa087ec0"
+        },
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-10-06].close[4]",
+          "sha256": "484a23f19c623fb52d7acb10826020062c4beeac744ca5d0ac96c27ba6907a6f"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-06].close[6]",
+          "sha256": "a41a70cde380ca5386f88706293689f7b4501b036e6bf9e4e8ccb5ea93584cd4"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "실천했다",
+      "evidence": [
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-10-07].open[3]",
+          "sha256": "b115c84b2621e568ab74ecdd2c78fb13ed5dea7e9c91650b78a1dfd07d216a4a"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-07].open[3]",
+          "sha256": "b115c84b2621e568ab74ecdd2c78fb13ed5dea7e9c91650b78a1dfd07d216a4a"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-10-07].open[3]",
+          "sha256": "b115c84b2621e568ab74ecdd2c78fb13ed5dea7e9c91650b78a1dfd07d216a4a"
+        },
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-10-07].close[1]",
+          "sha256": "b9022b69744f5f31e604ec15d587a78754d0d9e7e08bd2ea284583abe80a7a83"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-07].close[1]",
+          "sha256": "b9022b69744f5f31e604ec15d587a78754d0d9e7e08bd2ea284583abe80a7a83"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-10-07].close[1]",
+          "sha256": "b9022b69744f5f31e604ec15d587a78754d0d9e7e08bd2ea284583abe80a7a83"
+        },
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-10-07].close[4]",
+          "sha256": "324421c764dbc1b21ea4ae5cf0cf3aad3036fa7f49c4264a7deac45da0fcfe52"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-07].close[4]",
+          "sha256": "324421c764dbc1b21ea4ae5cf0cf3aad3036fa7f49c4264a7deac45da0fcfe52"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-10-07].close[4]",
+          "sha256": "324421c764dbc1b21ea4ae5cf0cf3aad3036fa7f49c4264a7deac45da0fcfe52"
+        },
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-10-07].close[5]",
+          "sha256": "4b3f6999906c34bab010c1071135af952803cdbaece9aa2bd846612ff4d8e5cd"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-07].close[6]",
+          "sha256": "0785d765673af69cb11cbe481a25ffe3ff8d92ce29099d268d1082179f6c2b49"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "일부 실천했다",
+      "evidence": [
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-10-08].open[3]",
+          "sha256": "d7c8cdc3b8c9c7cf976f44edb2bd8f8f2ab2b815728bf63e80df3331f308a51a"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-10-08].close[4]",
+          "sha256": "8515b0fa58c4e49da2c6358780f756f549aeb8f34448fae2566dc14a03fba0c1"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-10-08].close[5]",
+          "sha256": "3b1d6460c8f58efc8ed9fb6c2150d2d984c25b8e22f5d864dfaa9dce3951c4ce"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "일부 실천했다",
+      "evidence": [
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-10-12].close[1]",
+          "sha256": "f95403a80d038ab60359b413e31c650660cc714dd3bb56e63e05929bf7680303"
+        },
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-10-12].close[4]",
+          "sha256": "ba420e8573528b29e0609f4ffcdbbfb9d26e4520fff47d15aae48a18dfe5e6da"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-12].close[4]",
+          "sha256": "ba420e8573528b29e0609f4ffcdbbfb9d26e4520fff47d15aae48a18dfe5e6da"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "실천했다",
+      "evidence": [
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-10-13].open[3]",
+          "sha256": "87f4dd40b4b3cdf87be707ab13aaedb9eff9903361122e1345395e11271f1143"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-10-13].close[1]",
+          "sha256": "f189785c0f77f01ba9ea70e48ab4a4548829f746216e7ac0af1455122b557ff9"
+        },
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-10-13].close[4]",
+          "sha256": "53a476877e823d0f7d98d338a2d680be957c98f4326a2193cc4ef4ef10e2718a"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-10-13].close[4]",
+          "sha256": "53a476877e823d0f7d98d338a2d680be957c98f4326a2193cc4ef4ef10e2718a"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-13].close[6]",
+          "sha256": "bb80f08d5f5f52920a6523c4bbf01cb689b082b7b02a376750c97c923a2a197b"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "실천했다",
+      "evidence": [
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-10-14].open[3]",
+          "sha256": "2d79b656ec077436a831a37eb21e125d5525103ca842ba6170a26b8a5f7092be"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-10-14].open[3]",
+          "sha256": "2d79b656ec077436a831a37eb21e125d5525103ca842ba6170a26b8a5f7092be"
+        },
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-10-14].close[1]",
+          "sha256": "7b5876ed77afa4ffd6d8e521c47468c7fb8e1272264a4e49f8d0ae7e35ed80c4"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-10-14].close[1]",
+          "sha256": "7b5876ed77afa4ffd6d8e521c47468c7fb8e1272264a4e49f8d0ae7e35ed80c4"
+        },
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-10-14].close[4]",
+          "sha256": "7c0f68d700129849ed146004fbab1fb164b76d744cd127b7adca54227d0083de"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-14].close[4]",
+          "sha256": "7c0f68d700129849ed146004fbab1fb164b76d744cd127b7adca54227d0083de"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-14].close[5]",
+          "sha256": "366a1c7d8cb298c790ca64bba3a403a1089ac4bb2ec9b477b1f2e14e9e1e832a"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-14].close[6]",
+          "sha256": "6fbda77524bf98210c55cd5addf51d76d9d79ff840f5c39ea1c49df29ac895da"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "일부 실천했다",
+      "evidence": [
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-10-15].close[1]",
+          "sha256": "d5e38339890029e96b4e4c8a4da510f355241e5f7e4d3da9e61ac9605bb32a73"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-15].close[4]",
+          "sha256": "e1b113de72a3286a509cc08b5b6ab48a56f60765e0d471c6f512fbfff716df1d"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "일부 실천했다",
+      "evidence": [
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-16].close[1]",
+          "sha256": "f688a0473f98bcee740e007da05e5a07941685cae8112a24f91829c539fe5672"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-16].close[5]",
+          "sha256": "85e580ae2f436b414faceb963d2f9aa5c899a04305b2f0d5a8a33020437d0db8"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-16].close[6]",
+          "sha256": "772eaf57c79d93a2c610a003791c227dad7eed18c7a6f5b6a03991399dfebeae"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "실천했다",
+      "evidence": [
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-10-19].close[1]",
+          "sha256": "c695567f320e076c094b00ecd5fb7acc1fb6d3007ea77c95e0b7c1d33fffa3d5"
+        },
+        {
+          "competency": "자기조절력",
+          "field": "days[2026-10-19].close[4]",
+          "sha256": "d5ad51dd15021547a79aef24561ff67e167dd80b8c42bbcf3d320168ce3a29cb"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-19].close[4]",
+          "sha256": "d5ad51dd15021547a79aef24561ff67e167dd80b8c42bbcf3d320168ce3a29cb"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-19].close[5]",
+          "sha256": "93e9b585a73cf14d1d638103d067c679b800f2c50cb8e99ea463875e8c803823"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "일부 실천했다",
+      "evidence": []
+    },
+    {
+      "date": "2026-10-21",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "실천했다",
+      "evidence": [
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-21].close[6]",
+          "sha256": "bbbad064296fc9c77ce4db93fda2b2899d02187a55cded1bd23fbc0b7911091d"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "일부 실천했다",
+      "evidence": [
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-10-22].close[1]",
+          "sha256": "8a791b24423444d85b9f26a8c429bdb9e5521bd8f65db4ad3ca2981c3150c6a6"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-10-22].close[4]",
+          "sha256": "058783f0ac819b3ff42f046818c5b50a698786f3385420de52ccbd583ff427d0"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-22].close[6]",
+          "sha256": "a7765ac1e869f42a489608cb3333c8e2227f278c95ad3784e006bc622e9b9138"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "일부 실천했다",
+      "evidence": [
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-10-23].open[3]",
+          "sha256": "0a603b68185c6fef706e89ca395fee07125c0ed5f1bd3702def7e744c4982f83"
+        },
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-10-23].close[1]",
+          "sha256": "ed2c415fd1ade5475d0acc37bbdfcfa2f2c868e37b4db214298551ed5e435460"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-23].close[6]",
+          "sha256": "bf7fe24b5c337092ead83f02218237652e078db550463126a2a7a9938c44f471"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "실천했다",
+      "evidence": [
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-26].close[1]",
+          "sha256": "b5780e1cd6bd1e7fae8ef3ff9ef4b7384d718a6dba27c1781996b3e422a810d8"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-26].close[4]",
+          "sha256": "f9746f5fc21458fb1ac0f26f43c9a93b2fe9569b54d928125f47768ceb69a7f0"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-26].close[5]",
+          "sha256": "06abb21eb5c1debdcef9220d214647533fb35b07143fc58e8e821bf094c88ac8"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-26].close[6]",
+          "sha256": "af9f137d29579badccb76beee52e2007680e3566fc4052708c5ec05ab0b8a1ba"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "일부 실천했다",
+      "evidence": [
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-10-27].close[4]",
+          "sha256": "92a337a45741a0a524233837f49470fc5a67926cd65a083927df2a886c397428"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-27].close[5]",
+          "sha256": "42006a9722558a13fea2ba3b16900ea1cc58fdb2b6a3db7374dbb89f680cad97"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-27].close[6]",
+          "sha256": "8f9763054a40afa1b287e4335af9e70ae3077c02620be9ab534e7c2fd98ca2b7"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "morning_present": true,
+      "evening_present": true,
+      "self_assessment": "실천했다",
+      "evidence": [
+        {
+          "competency": "자기동기력",
+          "field": "days[2026-10-28].open[3]",
+          "sha256": "70500b6638cbfc6c57cc60979190732a07e8b17844179d6c56f13508f85b803b"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-28].close[1]",
+          "sha256": "2401a54171efdface0806eb4625ad385e5c0cb0bc0a7788ded2546ad6c1f58b0"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-28].close[4]",
+          "sha256": "e761d7dafec5657c1a1a2d864d2d483660ac5252d3c8a3dbbffa8a3db15d21b1"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-28].close[5]",
+          "sha256": "5ba8a96db2c1b244b0b97eeb68ba20c3aa29bc0f57207788bf4c74d948cedd08"
+        },
+        {
+          "competency": "대인관계력",
+          "field": "days[2026-10-28].close[6]",
+          "sha256": "4b604dec8fc15e587769947293e981e4f60f93c83671bba2abd4cd56c7504561"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "morning_present": true,
+      "evening_present": false,
+      "self_assessment": null,
+      "evidence": []
+    }
+  ]
+}

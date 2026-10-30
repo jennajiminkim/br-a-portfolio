@@ -1,0 +1,44 @@
+{
+  "approval_policy": "문단은 사용자가 승인한 항목만 공개합니다. 수치는 입력 자료를 다시 집계합니다.",
+  "approved_paragraphs": [],
+  "headline": "대화는 편안하게, 문제는 깊이 있게, 해답은 함께 넓혀가는 사람",
+  "metrics": {
+    "attendance": {
+      "absent_days": 0,
+      "as_of": "2026-10-30",
+      "attended_days": 53,
+      "enrolled_days": 54,
+      "percent": 98.1,
+      "provisional": true,
+      "source": "ALEPH 내 출석 기록 화면 (2026-10-30 조회, 당일 확정 전)",
+      "source_type": "manually_transcribed_official_screen"
+    },
+    "ritual": {
+      "done_days": 30,
+      "evening_days": 52,
+      "morning_days": 53,
+      "not_done_days": 0,
+      "note": "리추얼 일수는 출석일이나 연속 작성일과 다릅니다.",
+      "partial_days": 22,
+      "period_end": "2026-10-29",
+      "period_start": "2026-08-11",
+      "source": "ritual-history-2026-10-29.json",
+      "source_type": "derived_from_original_private_export_minimized"
+    },
+    "submissions": {
+      "approved": 11,
+      "as_of": "2026-10-30",
+      "defense_progress": {
+        "reached": 22,
+        "status": "마무리 자료 전",
+        "total": 22
+      },
+      "list_complete": false,
+      "source": "ALEPH 메모리얼 파크 내 기록 화면 (2026-10-30 조회)",
+      "source_type": "manually_transcribed_official_screen",
+      "total": 13
+    }
+  },
+  "name": "홍지민",
+  "schema_version": 1
+}
