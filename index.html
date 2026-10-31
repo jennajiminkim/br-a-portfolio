@@ -31,12 +31,32 @@ main section.main{padding:47px 0}
 .approved-in-story:not([hidden]){padding:8px 0 0;border-top:1px solid var(--line)}.approved-story{border-left:2px solid #9fbbe5;padding-left:15px}[hidden]{display:none!important}
 .contact-email{display:inline-block;margin-left:18px;overflow-wrap:anywhere}
 @media(max-width:650px){.contact-email{display:block;margin:8px 0 0}}
+
+/* Small outlined action links: keep the text-first portfolio styling. */
+.action-links,.docs-links{display:flex;flex-wrap:wrap;align-items:center;gap:10px}
+.action-links{margin-top:24px}
+.docs-links{margin-top:16px}
+.action-button{display:inline-flex;align-items:center;justify-content:center;gap:9px;max-width:100%;padding:10px 15px;border:1px solid #cfdfef;border-radius:11px;background:#f3f8fe;color:#315f9e;text-decoration:none;font-size:14px;font-weight:650;line-height:1.5;overflow-wrap:anywhere;transition:background-color .16s,border-color .16s,box-shadow .16s,transform .16s}
+.action-button svg{width:17px;height:17px;flex:none;fill:none;stroke:currentColor;stroke-width:1.75;stroke-linecap:round;stroke-linejoin:round}
+.action-button:hover{background:#e8f2ff;border-color:#a9c6e8;color:#224d88;box-shadow:0 3px 10px rgba(42,85,143,.07);transform:translateY(-1px)}
+.action-button:active{transform:translateY(0)}
+.action-button:focus-visible{outline:3px solid #346dc7;outline-offset:3px}
+.action-button.paper-link{display:inline-flex;margin-top:8px}
+@media(max-width:650px){.action-links,.docs-links{gap:9px}.action-button{padding:10px 12px;font-size:13px}}
+@media(prefers-reduced-motion:reduce){.action-button{transition:none}.action-button:hover{transform:none}}
 </style>
 </head>
 <body>
+<svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" style="position:absolute;width:0;height:0;overflow:hidden">
+<symbol id="i-gh" viewBox="0 0 24 24"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/></symbol>
+<symbol id="i-mail" viewBox="0 0 24 24"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-10 6L2 7"/></symbol>
+<symbol id="i-file" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6M8 13h8M8 17h8"/></symbol>
+<symbol id="i-pen" viewBox="0 0 24 24"><path d="M13 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-7"/><path d="M16 3.5 20.5 8 12 16.5l-5 1 1-5z"/></symbol>
+<symbol id="i-case" viewBox="0 0 24 24"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M8 7V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2M2 12a24 24 0 0 0 20 0M12 11v3"/></symbol>
+</svg>
 <header><div class="wrap"><span class="logo">홍지민</span><nav aria-label="목차"><a href="#story">내 이야기</a><a href="#numbers">기록과 숫자</a><a href="#projects">대표작</a><a href="#docs">문서</a></nav></div></header>
 <main class="wrap">
-<div class="hero"><div class="eyebrow">Information Security · Portfolio</div><h1>홍지민</h1><p>대화는 편안하게, 문제는 깊이 있게, 해답은 함께 넓혀가는 사람</p><a href="https://github.com/jennajiminkim" rel="noopener noreferrer" target="_blank">GitHub에서 작업 기록 보기</a> <a class="contact-email" href="mailto:jenna127001@gmail.com">이메일 · jenna127001@gmail.com</a></div>
+<div class="hero"><div class="eyebrow">Information Security · Portfolio</div><h1>홍지민</h1><p>대화는 편안하게, 문제는 깊이 있게, 해답은 함께 넓혀가는 사람</p><div class="action-links"><a class="action-button" href="https://github.com/jennajiminkim" rel="noopener noreferrer" target="_blank"><svg aria-hidden="true" focusable="false"><use href="#i-gh"/></svg><span>GitHub 작업 기록</span></a><a class="action-button" href="mailto:jenna127001@gmail.com"><svg aria-hidden="true" focusable="false"><use href="#i-mail"/></svg><span>jenna127001@gmail.com</span></a></div></div>
 <section id="story" class="main"><h2>내 이야기</h2><section class="story-section">
 <h3>01. 낯선 도시에서 내 자리를 찾던 시간</h3>
 <p>계획대로 되지 않았던 시간도 제게는 다음 길을 열어 준 경험이었습니다.</p>
@@ -65,10 +85,10 @@ main section.main{padding:47px 0}
 </section><div id="published" class="approved-in-story" hidden></div></section>
 <section id="numbers" class="main"><h2>기록과 숫자</h2><div class="cards" id="stats"><div class="empty">숫자 파일을 읽는 중입니다.</div></div><p class="subtle">출석·과제는 학습 사이트의 공식 화면에서 옮겨 적은 값이고, 리추얼 수치는 개인 기록 파일에서 계산합니다. 조회 시점이 서로 다를 수 있습니다.</p><div id="obstacle"></div></section>
 <section id="projects" class="main"><h2>대표작</h2><div class="projects">
-<div class="card"><h3>10번 과제 · 첫 논문</h3><p>명상 기반 중재와 항우울제 치료 전후의 뇌 기능적 연결성 변화 비교: 불안장애 환자를 중심으로</p><p class="subtle" id="paper-status">논문 PDF 파일 연결을 확인하고 있습니다.</p><a class="paper-link" id="paper-pdf-link" href="site/docs/manuscript.pdf" target="_blank" rel="noopener noreferrer" hidden>논문 PDF 열람 ↗</a></div>
+<div class="card"><h3>10번 과제 · 첫 논문</h3><p>명상 기반 중재와 항우울제 치료 전후의 뇌 기능적 연결성 변화 비교: 불안장애 환자를 중심으로</p><p class="subtle" id="paper-status">논문 PDF 파일 연결을 확인하고 있습니다.</p><a class="action-button paper-link" id="paper-pdf-link" href="site/docs/manuscript.pdf" target="_blank" rel="noopener noreferrer" hidden><svg aria-hidden="true" focusable="false"><use href="#i-file"/></svg><span>논문 PDF 열람</span></a></div>
 <div class="card"><h3>13번 과제 · 명상 보조 웹 앱</h3><p>비치료적 명상 보조 도구 제작 예정</p><p class="subtle">예상 완료일: 2026년 11월 1일</p></div>
 </div></section>
-<section id="docs" class="main"><h2>문서</h2><p>문서의 상세 내용은 별도 제출물로 제공하며, 아래 파일도 내려받을 수 있습니다.</p><p><a href="site/docs/Hong_Jimin_BR-A_Resume.docx">이력서 (DOCX)</a> · <a href="site/docs/Hong_Jimin_BR-A_Personal_Statement.docx">자기소개서 (DOCX)</a> · <a href="site/docs/Hong_Jimin_BR-A_Project_Experience.docx">경력기술서 (DOCX)</a></p></section>
+<section id="docs" class="main"><h2>문서</h2><p>문서의 상세 내용은 별도 제출물로 제공하며, 아래 파일도 내려받을 수 있습니다.</p><div class="docs-links"><a class="action-button" href="site/docs/Hong_Jimin_BR-A_Resume.docx"><svg aria-hidden="true" focusable="false"><use href="#i-file"/></svg><span>이력서 (DOCX)</span></a><a class="action-button" href="site/docs/Hong_Jimin_BR-A_Personal_Statement.docx"><svg aria-hidden="true" focusable="false"><use href="#i-pen"/></svg><span>자기소개서 (DOCX)</span></a><a class="action-button" href="site/docs/Hong_Jimin_BR-A_Project_Experience.docx"><svg aria-hidden="true" focusable="false"><use href="#i-case"/></svg><span>경력기술서 (DOCX)</span></a></div></section>
 </main><footer><div class="wrap">홍지민 · 기술 학습과 협업 경험에 관한 공개 포트폴리오</div></footer>
 <script>
 'use strict';
