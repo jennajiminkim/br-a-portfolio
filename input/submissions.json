@@ -1,16 +1,32 @@
 {
   "snapshot_date": "2026-10-30",
-  "source": "ALEPH 메모리얼 파크 내 기록 화면 (2026-10-30 조회)",
+  "source": "ALEPH 내 제출 현황 (메모리얼 파크 > 내 기록, 2026-10-30 조회)",
   "source_type": "manually_transcribed_official_screen",
   "approved_snapshot": 11,
   "total_snapshot": 13,
   "task_list_complete": false,
   "tasks": [
-    {"id": "T10", "status": "approved"},
-    {"id": "T11", "status": "approved"},
-    {"id": "T12", "status": "in_progress"},
-    {"id": "T13", "status": "not_completed"}
+    {
+      "id": "T10",
+      "status": "approved"
+    },
+    {
+      "id": "T11",
+      "status": "approved"
+    },
+    {
+      "id": "T12",
+      "status": "in_progress"
+    },
+    {
+      "id": "T13",
+      "status": "not_completed"
+    }
   ],
-  "defense_progress": {"reached": 22, "total": 22, "status": "마무리 자료 전"},
+  "defense_progress": {
+    "reached": 22,
+    "total": 22,
+    "status": "마무리 자료 전"
+  },
   "note": "11/13은 개별 과제 목록을 합산한 값이 아니라 화면에 표시된 마스터 승인 수치임."
 }
