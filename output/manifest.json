@@ -5,13 +5,13 @@
     "approvals.json": "0ee210886a09f99f7c41ad091f7fe1e5a3451fa688ea7969f415881f3a03ede5",
     "attendance.json": "92e389fa9fb9c880abbffe6b5d75dc271ef07cbebc32e3eba396761b9ae887fd",
     "ritual.json": "a03720e23b72f78bacfb7940822e353af26e741368c61aead9162771d1d247be",
-    "submissions.json": "3c94640e480d5c39ff6545b79a097b57524bbc742433ba8bda7d3830f1aa5c56"
+    "submissions.json": "7610b5e9c73a82a86b376bbc3f9762f1b7bb5e539d0bcf6773dc4310bde59d3c"
   },
-  "metric_sha256": "1ee15c224a59bd32c18308bab6e82bd5e06e6e2718525aad90a134228fc6f6c4",
+  "metric_sha256": "af028168b541a73f79fddeef0888969780600b5b4fa2adda79360ab1101140e9",
   "notes": [
     "로컬 파일과 내장 규칙만 사용",
     "시각/랜덤값/AI API 사용하지 않음",
     "원문 기록은 출력하지 않음"
   ],
-  "site_data_sha256": "cbd40805577102b4c249c82b9e1499fb14ae0ae8ded2147b1c0d021d9ebc549a"
+  "site_data_sha256": "77c3b5b5a90b69dd36394a412c16ed971b6658a54d3072acabb4f2b5077457c0"
 }
