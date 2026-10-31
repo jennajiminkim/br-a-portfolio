@@ -10,10 +10,10 @@
   "explicit_approval": "PASS",
   "fingerprints": {
     "output/candidates.json": "b57d04e0c6aa701de2b9be46ed84f553dcb215cf213eed0eda882fa1afb00495",
-    "output/manifest.json": "b536e758d282fda0ff7079266189f044fcbff16be3054cb15c3495d7badbde9f",
-    "output/metrics.json": "1ee15c224a59bd32c18308bab6e82bd5e06e6e2718525aad90a134228fc6f6c4",
+    "output/manifest.json": "1c42175d210efbdb7231f2419556d32c01b581ef300f16efabe9d85fbfef5c7f",
+    "output/metrics.json": "af028168b541a73f79fddeef0888969780600b5b4fa2adda79360ab1101140e9",
     "output/review.md": "f966f1715c67d890f132ec0f7120adfb086beee08e2974de91ea2f6367614661",
-    "site/site-data.json": "cbd40805577102b4c249c82b9e1499fb14ae0ae8ded2147b1c0d021d9ebc549a"
+    "site/site-data.json": "77c3b5b5a90b69dd36394a412c16ed971b6658a54d3072acabb4f2b5077457c0"
   },
   "new_records_require_approval": "PASS",
   "new_records_update_metrics": "PASS",
