@@ -14,7 +14,12 @@ patterns={
 issue=[];scanned=[]
 for f in sorted(base.rglob('*')):
  if not f.is_file() or '__pycache__' in str(f) or f.name.endswith('.pyc'):continue
- if f.suffix=='.pdf':issue.append({'file':str(f.relative_to(base)),'type':'pdf_in_safe_package'});continue
+ if f.suffix=='.pdf':
+  rel=str(f.relative_to(base))
+  if rel=='site/docs/manuscript.pdf':
+   if not f.read_bytes()[:8].startswith(b'%PDF-'):issue.append({'file':rel,'type':'bad_pdf_header'})
+  else:issue.append({'file':rel,'type':'unexpected_pdf'})
+  continue
  if f.suffix=='.docx':
   with zipfile.ZipFile(f) as z:
    txt=[]
@@ -37,7 +42,7 @@ for f in sorted(base.rglob('*')):
   if ritual.get('format')!='minimal-ritual-v1':issue.append({'file':'input/ritual.json','type':'PRIVATE_RAW_DIARY_INPUT'})
 result={'automatic_scan':'PASS' if not issue else 'FAIL','files_scanned':len(scanned),'issues':issue,
         'manual_review_note':'이름/인용/서사상 개인 식별 여부는 자동 정규식만으로 확정할 수 없으므로 배포 전 사람의 추가 검토가 필요함.',
-        'pdf_status':'공개용 ZIP에 학술 참고문헌 연구자 이름이 포함된 원본 manuscript.pdf를 넣지 않음'}
+        'pdf_status':'site/docs/manuscript.pdf 논문 학술 참고문헌의 저자 이름은 사용자 승인 예외. 논문 원문은 별도 육안 확인 필요'}
 (base/'tests/privacy_result.json').write_text(json.dumps(result,ensure_ascii=False,sort_keys=True,indent=2)+'\n','utf-8')
 print(json.dumps(result,ensure_ascii=False,indent=2))
 if issue:raise SystemExit(1)
