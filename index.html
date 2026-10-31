@@ -28,10 +28,11 @@ main section.main{padding:47px 0}
 .paper-link:hover{color:#194e97}
 #paper-pdf-link[hidden]{display:none}
 @media(max-width:650px){.hero{margin:14px -12px 0;padding:40px 18px 42px;border-radius:12px}.projects>.card{padding:20px}}
+.approved-in-story:not([hidden]){padding:8px 0 0;border-top:1px solid var(--line)}.approved-story{border-left:2px solid #9fbbe5;padding-left:15px}[hidden]{display:none!important}
 </style>
 </head>
 <body>
-<header><div class="wrap"><span class="logo">홍지민</span><nav aria-label="목차"><a href="#story">내 이야기</a><a href="#numbers">기록과 숫자</a><a href="#projects">대표작</a><a href="#approved">내가 승인한 문단</a><a href="#docs">문서</a></nav></div></header>
+<header><div class="wrap"><span class="logo">홍지민</span><nav aria-label="목차"><a href="#story">내 이야기</a><a href="#numbers">기록과 숫자</a><a href="#projects">대표작</a><a href="#docs">문서</a></nav></div></header>
 <main class="wrap">
 <div class="hero"><div class="eyebrow">Information Security · Portfolio</div><h1>홍지민</h1><p>대화는 편안하게, 문제는 깊이 있게, 해답은 함께 넓혀가는 사람</p><a href="https://github.com/jennajiminkim" rel="noopener noreferrer" target="_blank">GitHub에서 작업 기록 보기</a></div>
 <section id="story" class="main"><h2>내 이야기</h2><section class="story-section">
@@ -59,13 +60,12 @@ main section.main{padding:47px 0}
 <p>배움은 구체적인 결과로 이어졌습니다. 네트워크관리사 2급 자격증을 취득했고, AI를 활용해 미니게임, 짤·카드 스튜디오, 데이터 정보판, 웹 다이어리, 패스키를 적용한 자기소개 페이지 등을 구현했습니다. 기능을 만드는 데서 멈추지 않고 인증과 접근 제어가 의도대로 작동하는지 직접 검증하며 결과를 기록했습니다.</p>
 <p>디자인에서 익힌 사용자 관점은 버리고 온 경력이 아니라 새로운 기술과 연결할 자산이었습니다. 이제는 정보를 이해하기 쉽게 보여주는 방법뿐 아니라, 누가 그 정보에 접근할 수 있는지도 고민합니다.</p>
 <p>그 길에서 얻은 경험을 동료들과 나누며, 혼자서는 발견하지 못했을 더 나은 해답을 함께 만들어가고 싶습니다.</p>
-</section></section>
+</section><div id="published" class="approved-in-story" hidden></div></section>
 <section id="numbers" class="main"><h2>기록과 숫자</h2><div class="cards" id="stats"><div class="empty">숫자 파일을 읽는 중입니다.</div></div><p class="subtle">출석·과제는 학습 사이트의 공식 화면에서 옮겨 적은 값이고, 리추얼 수치는 개인 기록 파일에서 계산합니다. 조회 시점이 서로 다를 수 있습니다.</p><div id="obstacle"></div></section>
 <section id="projects" class="main"><h2>대표작</h2><div class="projects">
-<div class="card"><h3>10번 과제 · 첫 논문</h3><p>성인 범불안장애 치료 전후 뇌 기능적 연결성 변화 — 공개 출판자료의 근거 종합과 요약통계 재분석</p><p class="subtle" id="paper-status">논문 PDF 파일 연결을 확인하고 있습니다.</p><a class="paper-link" id="paper-pdf-link" href="site/docs/manuscript.pdf" target="_blank" rel="noopener noreferrer" hidden>논문 PDF 열람 ↗</a></div>
-<div class="card"><h3>13번 과제 · 명상 보조 웹 앱</h3><p>비치료적 명상 보조 도구 제작 예정</p><p class="subtle">예상 완료일: 미정 (작성자가 확정 후 입력)</p></div>
+<div class="card"><h3>10번 과제 · 첫 논문</h3><p>명상 기반 중재와 항우울제 치료 전후의 뇌 기능적 연결성 변화 비교: 불안장애 환자를 중심으로</p><p class="subtle" id="paper-status">논문 PDF 파일 연결을 확인하고 있습니다.</p><a class="paper-link" id="paper-pdf-link" href="site/docs/manuscript.pdf" target="_blank" rel="noopener noreferrer" hidden>논문 PDF 열람 ↗</a></div>
+<div class="card"><h3>13번 과제 · 명상 보조 웹 앱</h3><p>비치료적 명상 보조 도구 제작 예정</p><p class="subtle">예상 완료일: 2026년 11월 1일</p></div>
 </div></section>
-<section id="approved" class="main"><h2>승인한 기록 문단</h2><div id="published" class="projects"><div class="empty">승인한 신규 문단이 없습니다.</div></div></section>
 <section id="docs" class="main"><h2>문서</h2><p>문서의 상세 내용은 별도 제출물로 제공하며, 아래 파일도 내려받을 수 있습니다.</p><p><a href="site/docs/Hong_Jimin_BR-A_Resume.docx">이력서 (DOCX)</a> · <a href="site/docs/Hong_Jimin_BR-A_Personal_Statement.docx">자기소개서 (DOCX)</a> · <a href="site/docs/Hong_Jimin_BR-A_Project_Experience.docx">경력기술서 (DOCX)</a></p></section>
 </main><footer><div class="wrap">홍지민 · 기술 학습과 협업 경험에 관한 공개 포트폴리오</div></footer>
 <script>
@@ -92,10 +92,10 @@ fetch('./site/site-data.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error(
  stat(stats,r.morning_days+'일','아침 기록',r.source+' · '+r.period_start+'~'+r.period_end);
  stat(stats,r.evening_days+'일','저녁 기록 · 일부 실천 '+r.partial_days+'일',r.source+' · 연속 기록일이나 출석일을 뜻하지 않음');
  const o=$('obstacle');o.replaceChildren();
- const block=textEl('div','','card');block.append(textEl('h3','어려움과 숫자를 함께 기록하기'),textEl('p','9월 22일 SQL 삽입 공격 실습에서 여러 번 막혀 도움을 구했습니다. 당시 저녁 기록에는 ‘일부 실천했다’고 남겼습니다. 해당 원본의 저녁 기록 '+r.evening_days+'일 가운데 '+r.partial_days+'일이 같은 평가입니다.'),textEl('small','출처: 2026-09-22 리추얼 저녁 기록 · '+r.source));o.append(block);
+ const block=textEl('div','','card');block.append(textEl('h3','어려움과 숫자를 함께 기록하기'),textEl('p','9월 22일 SQL 삽입 공격 실습에서 막혀 동료에게 도움을 구했습니다. 그날 저녁 기록에 ‘일부 실천했다’고 남겼습니다. 저녁 기록 '+r.evening_days+'일 중 '+r.partial_days+'일이 같은 평가이지만, 다른 날에는 서로 다른 경험을 평가한 것입니다.'),textEl('small','출처: 2026-09-22 리추얼 저녁 기록 · '+r.source));o.append(block);
  const items=$('published');items.replaceChildren();
- if(!d.approved_paragraphs.length){items.append(textEl('div','신규 후보 중 사용자가 승인한 문단은 아직 없습니다.','empty'));}
- for(const c of d.approved_paragraphs){const el=textEl('article','','card');el.append(textEl('span',c.competency+' · '+c.date,'pill'),textEl('p',c.paragraph),textEl('small','근거: '+c.evidence.date+' · 개인 리추얼 '+c.evidence.field,'evidence'));items.append(el);}
+ const approved=d.approved_paragraphs||[];items.hidden=approved.length===0;
+ for(const c of approved){const el=textEl('article','','story-section approved-story');el.append(textEl('p',c.competency+' · '+c.date,'pill'),textEl('p',c.paragraph),textEl('small','근거: '+c.evidence.date+' · 개인 리추얼 '+c.evidence.field,'evidence'));items.append(el);}
 }).catch(e=>{$('stats').replaceChildren(textEl('div','데이터를 불러오지 못했습니다. README의 미리보기 실행 방법을 확인하세요.','empty'));});
 </script>
 </body></html>
