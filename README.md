@@ -25,7 +25,7 @@
 - **10번 논문:** `site/docs/manuscript.pdf` (33쪽); 학술 참고문헌 연구자 실명은 사용자가 허용한 예외.
 - **13번 비치료적 명상 보조 앱:** 결과물은 아직 없으며 **2026-11-01 예정** 자리만 마련.
 - **이력서·자기소개서·경력기술서:** `site/docs/Hong_Jimin_BR-A_Resume.docx`, `site/docs/Hong_Jimin_BR-A_Personal_Statement.docx`, `site/docs/Hong_Jimin_BR-A_Project_Experience.docx`.
-- 지원용 이메일은 사용자 미제공으로 이력서 `[지원용 이메일 주소]`가 남아 있습니다. 실제 이메일을 **DOCX와 공개 사이트에 둘 다** 입력하고 검증해야 합니다.
+- 지원용 이메일 `jenna127001@gmail.com`은 사용자가 직접 선택한 공개 연락처입니다. 사이트 첫 화면과 이력서 DOCX에 동일하게 반영했습니다. 새 시크릿 창 공개 접근은 마지막에 확인합니다.
 
 ## 검사 및 제출
 

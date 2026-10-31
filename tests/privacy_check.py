@@ -11,6 +11,7 @@ patterns={
  'jwt': re.compile(r'\beyJ[A-Za-z0-9_-]{14,}\.eyJ[A-Za-z0-9_-]{14,}'),
  'aws_secret': re.compile(r'\bAKIA[A-Z0-9]{16}\b'),
 }
+PUBLIC_CONTACT_EMAIL = 'jenna127001@gmail.com'  # user-approved public contact
 issue=[];scanned=[]
 for f in sorted(base.rglob('*')):
  if not f.is_file() or '__pycache__' in str(f) or f.name.endswith('.pyc'):continue
@@ -35,6 +36,8 @@ for f in sorted(base.rglob('*')):
  scanned.append(str(f.relative_to(base)))
  for label,pattern in patterns.items():
   for mt in pattern.finditer(content):
+   if label == 'email_address' and mt.group(0).lower() == PUBLIC_CONTACT_EMAIL:
+    continue
    issue.append({'file':str(f.relative_to(base)),'type':label,'location':mt.start()})
  # raw diary text would be stored as open/close arrays, not in safe reduced format.
  if f==base/'input/ritual.json':
